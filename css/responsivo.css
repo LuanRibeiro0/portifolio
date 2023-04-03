@@ -1,0 +1,12 @@
+@media screen and (max-width: 768px){
+    header{
+        text-align: center;
+    }
+    .menu{
+        text-align: center;
+    }
+    .w33,.w50{
+        width:100%;
+        margin-bottom: 20px;
+    }
+}
